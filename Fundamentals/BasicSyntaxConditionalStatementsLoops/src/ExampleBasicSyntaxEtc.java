@@ -13,5 +13,10 @@ public class ExampleBasicSyntaxEtc {
         for (int i = 1; i <= counter; i++) {
             System.out.printf("%s %d\n", myName, i);
         }
+
+        // trim String
+        String trimString = "     Hello, world";
+        System.out.println(trimString);
+        System.out.println(trimString.trim());
     }
 }

@@ -32,5 +32,10 @@ public class ExamplesDataTypesAndVariables {
             System.out.println(symbol);
         }
 
+        // trim String
+        String trimString = "     Hello, world";
+        System.out.println(trimString);        // ->     Hello, world<-
+        System.out.println(trimString.trim()); // ->Hello, world<-
+
     }
 }
