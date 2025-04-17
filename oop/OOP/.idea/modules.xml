@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DebuggingTechniques/DebuggingTechniques.iml" filepath="$PROJECT_DIR$/DebuggingTechniques/DebuggingTechniques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExampPreparation/ExampPreparation.iml" filepath="$PROJECT_DIR$/ExampPreparation/ExampPreparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionsAndErrorHandling/ExceptionsAndErrorHandling.iml" filepath="$PROJECT_DIR$/ExceptionsAndErrorHandling/ExceptionsAndErrorHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesAndAbstraction/InterfacesAndAbstraction.iml" filepath="$PROJECT_DIR$/InterfacesAndAbstraction/InterfacesAndAbstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectionAndAnnotation/ReflectionAndAnnotation.iml" filepath="$PROJECT_DIR$/ReflectionAndAnnotation/ReflectionAndAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTesting/UnitTesting.iml" filepath="$PROJECT_DIR$/UnitTesting/UnitTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorkingWithAbstraction/WorkingWithAbstraction.iml" filepath="$PROJECT_DIR$/WorkingWithAbstraction/WorkingWithAbstraction.iml" />
+    </modules>
+  </component>
+</project>

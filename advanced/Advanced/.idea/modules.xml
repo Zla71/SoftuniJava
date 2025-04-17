@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advanced.iml" filepath="$PROJECT_DIR$/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/DefiningClasses.iml" filepath="$PROJECT_DIR$/DefiningClasses/DefiningClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/Demo/Demo.iml" filepath="$PROJECT_DIR$/DefiningClasses/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamPreparation/ExamPreparation.iml" filepath="$PROJECT_DIR$/ExamPreparation/ExamPreparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratorsAndComparators/IteratorsAndComparators.iml" filepath="$PROJECT_DIR$/IteratorsAndComparators/IteratorsAndComparators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/JarOfT/JarOfT.iml" filepath="$PROJECT_DIR$/Generics/JarOfT/JarOfT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays.iml" filepath="$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealExam/RealExam.iml" filepath="$PROJECT_DIR$/RealExam/RealExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetsAndMapsAdvanced/SetsAndMapsAdvanced.iml" filepath="$PROJECT_DIR$/SetsAndMapsAdvanced/SetsAndMapsAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" filepath="$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsFilesAndDirectories/StreamsFilesAndDirectories.iml" filepath="$PROJECT_DIR$/StreamsFilesAndDirectories/StreamsFilesAndDirectories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/_01_CarInfo/_01_CarInfo.iml" filepath="$PROJECT_DIR$/DefiningClasses/_01_CarInfo/_01_CarInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/_01_OpinionPoll/_01_OpinionPoll.iml" filepath="$PROJECT_DIR$/DefiningClasses/_01_OpinionPoll/_01_OpinionPoll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/_02_CompanyRoster/_02_CompanyRoster.iml" filepath="$PROJECT_DIR$/DefiningClasses/_02_CompanyRoster/_02_CompanyRoster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/_02_Constructors/_02_Constructors.iml" filepath="$PROJECT_DIR$/DefiningClasses/_02_Constructors/_02_Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/_03_BankAccount/_03_BankAccount.iml" filepath="$PROJECT_DIR$/DefiningClasses/_03_BankAccount/_03_BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/_03_SpeedRacing/_03_SpeedRacing.iml" filepath="$PROJECT_DIR$/DefiningClasses/_03_SpeedRacing/_03_SpeedRacing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/_04_RawData/_04_RawData.iml" filepath="$PROJECT_DIR$/DefiningClasses/_04_RawData/_04_RawData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/_05_CarSalesman/_05_CarSalesman.iml" filepath="$PROJECT_DIR$/DefiningClasses/_05_CarSalesman/_05_CarSalesman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/_06_PokemonTrainer/_06_PokemonTrainer.iml" filepath="$PROJECT_DIR$/DefiningClasses/_06_PokemonTrainer/_06_PokemonTrainer.iml" />
+    </modules>
+  </component>
+</project>
